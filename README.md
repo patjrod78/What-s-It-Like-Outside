@@ -1,4 +1,4 @@
-# server-side-api-s-weather-dashboard
+# what's it like outside
 
 
 Tasked with creating a weather dashboard that allows the user to access the following:
